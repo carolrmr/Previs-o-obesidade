@@ -1,0 +1,6 @@
+pandas 
+numpy 
+seaborn 
+matplotlib.pyplot
+ydata_profiling
+statsmodels.api as sm
